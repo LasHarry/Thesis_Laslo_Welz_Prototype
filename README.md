@@ -3,7 +3,7 @@ GitHub Repository created by [Laslo Welz](https://github.com/LasHarry/)
 
 ## Introduction
 
-The prototype was build in a Linux enivronment.
+The prototype was build in a Linux environment.
 This is recommended for using the ColBERT library. To run the scripts, it is recommended to train the model on a GPU using the Nvidia CUDA environment.
 A list of all required libraries is in this [config file](conda_env.yml).
 
