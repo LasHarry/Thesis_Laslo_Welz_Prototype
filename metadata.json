@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Personalizing Retrieval-Based Dialogue Agents",
+        "author": "Pavel Posokhov",
+        "publish_date": "2022-10-29",
+        "subject": "Speech and Computer",
+        "doi": "doi:10.1007/978-3-031-20980-2_47",
+        "keywords": "Personalized dialogue systems; Retrieve models; Text augmentation"
+    },
+    {
+        "title": "An Interactive Artificial Intelligence System for Inventive Problem-Solving",
+        "author": "Stelian Brad",
+        "publish_date": "2022-09-19",
+        "subject": "Systematic Innovation Partnerships with Artificial Intelligence and Information Technology",
+        "doi": "doi:10.1007/978-3-031-17288-5_15",
+        "keywords": "Artificial Intelligence (AI); Natural Language Processing (NLP); Question Answering Machine (QAM); Deep Learning (DL); Theory of Inventive Problem Solving (TRIZ); Structured Activation of Vertex Entropy (SAVE); Retrieval Augmented Generation (RAG); Humans in the Loop (HL); Interactive AI systems"
+    },
+    {
+        "title": "To Answer or Not to Answer? Filtering Questions for QA Systems",
+        "author": "Paulo Pirozelli",
+        "publish_date": "2022-11-14",
+        "subject": "Intelligent Systems",
+        "doi": "doi:10.1007/978-3-031-21689-3_33",
+        "keywords": "Question answering; Answer triggering; Dual system; Question filtering"
+    },
+    {
+        "title": "Text Data Augmentation for Deep Learning",
+        "author": "Connor Shorten",
+        "publish_date": "2021-07-16",
+        "subject": "Journal of Big Data",
+        "doi": "https://doi.org/10.1186/s40537-021-00492-0",
+        "keywords": "Connor Shorten "
+    },
+    {
+        "title": "RIGHT: Retrieval-Augmented Generation for Mainstream Hashtag Recommendation",
+        "author": "Run-Ze Fan",
+        "publish_date": "2024-03-04",
+        "subject": "Advances in Information Retrieval",
+        "doi": "doi:10.1007/978-3-031-56027-9_3",
+        "keywords": "Hashtag recommendation; Retrieval-augmented generation; Social media"
+    },
+    {
+        "title": "Retrieval-Augmented GPT-3.5-Based Text-to-SQL Framework with Sample-Aware Prompting and Dynamic Revision Chain",
+        "author": "Chunxi Guo",
+        "publish_date": "2023-11-01",
+        "subject": "Neural Information Processing",
+        "doi": "doi:10.1007/978-981-99-8076-5_25",
+        "keywords": "Large language model; Text-to-SQL; Prompt learning"
+    },
+    {
+        "title": "LLM-Based SPARQL Generation with Selected Schema from Large Scale Knowledge Base",
+        "author": "Shuangtao Yang",
+        "publish_date": "2023-10-26",
+        "subject": "Knowledge Graph and Semantic Computing: Knowledge Graph Empowers Artificial General Intelligence",
+        "doi": "doi:10.1007/978-981-99-7224-1_24",
+        "keywords": "KBQA; Large Language Model; SPARQL Generation"
+    },
+    {
+        "title": "A Systematic Literature Review of Natural Language Processing: Current State, Challenges and Risks",
+        "author": "Eghbal Ghazizadeh",
+        "publish_date": "2020-10-23",
+        "subject": "Proceedings of the Future Technologies Conference (FTC) 2020",
+        "doi": "Volume 1",
+        "keywords": "Natural Language Processing,Voice recognition,Artificial intelligence,NLP applications"
+    },
+    {
+        "title": "Conversation-Driven Refinement of Knowledge Graphs: True Active Learning with Humans in the Chatbot Application Loop",
+        "author": "Dominik Buhl",
+        "publish_date": "2023-06-30",
+        "subject": "Artificial Intelligence in HCI",
+        "doi": "doi:10.1007/978-3-031-35894-4_3",
+        "keywords": "Conversational AI; Human-in-the-Loop AI; Knowledge-Grounded Cognitive Assistants; Knowledge Graph Refinement"
+    },
+    {
+        "title": "Open-Domain Long-Form Question\u2013Answering Using Transformer-Based Pipeline",
+        "author": "Aprameya Dash",
+        "publish_date": "2023-07-15",
+        "subject": "SN Computer Science",
+        "doi": "https://doi.org/10.1007/s42979-023-02039-x",
+        "keywords": "SN Computer Science, https://doi.org/10.1007/s42979-023-02039-x"
+    },
+    {
+        "title": "Design and Development of Retrieval-Based Chatbot Using Sentence Similarity",
+        "author": "Haritha Akkineni",
+        "publish_date": "2021-09-04",
+        "subject": "IoT and Analytics for Sensor Networks",
+        "doi": "doi:10.1007/978-981-16-2919-8_43",
+        "keywords": "Chatbot,Machine learning,Retrieval approach,Flask framework"
+    },
+    {
+        "title": "SciPhyRAG - Retrieval Augmentation to Improve LLMs on Physics Q &A",
+        "author": "Avinash Anand",
+        "publish_date": "2023-11-24",
+        "subject": "Big Data and Artificial Intelligence",
+        "doi": "doi:10.1007/978-3-031-49601-1_4",
+        "keywords": "Document Retrieval; Neural Text Generation; Large Language Models; Natural Language Processing; Question-Answering"
+    },
+    {
+        "title": "Retrieval-Augmented Knowledge-Intensive Dialogue",
+        "author": "Zelin Wang",
+        "publish_date": "2023-09-25",
+        "subject": "Natural Language Processing and Chinese Computing",
+        "doi": "doi:10.1007/978-3-031-44693-1_2",
+        "keywords": "Dialogue system; Retrieval-augmented generation; Document retrieval"
+    },
+    {
+        "title": "A Survey on Intelligent Question and Answer Systems",
+        "author": "Xuechao Guo",
+        "publish_date": "2023-01-19",
+        "subject": "Mobile Multimedia Communications",
+        "doi": "doi:10.1007/978-3-031-23902-1_7",
+        "keywords": "Intelligent question and answer systems; Information retrieval; Natural language processing; Deep learning"
+    },
+    {
+        "title": "AI-Based Interactive Agent for Health Care Using NLP and Deep Learning",
+        "author": "U. Hemavathi",
+        "publish_date": "2022-06-07",
+        "subject": "Information and Communication Technology for Competitive Strategies (ICTCS 2021)",
+        "doi": "doi:10.1007/978-981-19-0095-2_2",
+        "keywords": "Deep learning,Artificial intelligence,Natural language processing,Health care"
+    },
+    {
+        "title": "A Systematic Literature Review of Question Answering: Research Trends, Datasets, Methods",
+        "author": "Dilan Bak\u0131r",
+        "publish_date": "2022-07-02",
+        "subject": "Computational Science and Its Applications \u2013 ICCSA 2022 Workshops",
+        "doi": "doi:10.1007/978-3-031-10536-4_4",
+        "keywords": "Question answering,Information retrieval,Knowledge based question answering,NLP based question answering,Systematic literature review"
+    },
+    {
+        "title": "DRHTG: A Knowledge-Centric Approach for Document Retrieval Based on Heterogeneous Entity Tree Generation and RDF Mapping",
+        "author": "M. Arulmozhi Varman",
+        "publish_date": "2023-03-18",
+        "subject": "Innovations in Bio-Inspired Computing and Applications",
+        "doi": "doi:10.1007/978-3-031-27499-2_39",
+        "keywords": "Jellyfish; KL divergence; Optimization; RDF mapping; Text mining"
+    },
+    {
+        "title": "Chatbots Technology and its Challenges: An Overview",
+        "author": "Hajar Zerouani",
+        "publish_date": "2023-05-23",
+        "subject": "International Conference on Advanced Intelligent Systems for Sustainable Development",
+        "doi": "doi:10.1007/978-3-031-26384-2_6",
+        "keywords": "Chatbots; Artificial Intelligence; Natural Language Processing; Deep Learning"
+    },
+    {
+        "title": "Chapter 9 Knowledge Representation Learning and Knowledge-Guided NLP",
+        "author": "Unknown author",
+        "publish_date": "2023-06-23",
+        "subject": "",
+        "doi": "No DOI available",
+        "keywords": ""
+    },
+    {
+        "title": "Potential for GPT Technology to Optimize Future Clinical Decision-Making Using Retrieval-Augmented Generation",
+        "author": "Calvin Wang",
+        "publish_date": "2023-08-01",
+        "subject": "Annals of Biomedical Engineering",
+        "doi": "https://doi.org/10.1007/s10439-023-03327-6",
+        "keywords": "GPT; Patient; Clinical; Large language model"
+    }
+]
