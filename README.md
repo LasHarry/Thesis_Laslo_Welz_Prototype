@@ -1,16 +1,13 @@
-# hhn_mt
+# Master Thesis: Enhancing Large Language Models through external Domain Knowledge
+GitHub Repository created by [Laslo Welz](https://github.com/LasHarry/)
 
 ## Introduction
 
-Here are some links to consider for Llama Index:
-* https://docs.llamaindex.ai/en/stable/getting_started/installation.html
-* https://docs.llamaindex.ai/en/stable/module_guides/models/llms.html
-* https://docs.llamaindex.ai/en/stable/module_guides/models/llms/local.html
+The prototype was build in a Linux enivronment using [WSL](https://learn.microsoft.com/de-de/windows/wsl/about).
+This is recommended for using the ColBERT library. To run the scripts, it is recommended to train the model on a GPU using the Nvidia CUDA environment.
+For the exact library check out this [config file](conda_env.yml)
 
-Some links to consider for Colbert v2 RM:
-* Walk-Trough [Medium](https://medium.com/@claude.feldges/document-understanding-with-the-dsp-framework-using-stanford-state-of-the-art-search-engine-d35ea73d4ed8) 
-* Intro [Colbert](https://github.com/stanford-futuredata/ColBERT/blob/main/docs/intro.ipynb)
-* 
-
-Some links regarding the DSPy framework:
-* https://github.com/stanfordnlp/dspy
+Some additional links:
+* [DSPy](https://github.com/stanfordnlp/dspy)
+* [ColBERT](https://github.com/stanford-futuredata/ColBERT/blob/main/docs/intro.ipynb)
+* [Phi-2](https://huggingface.co/microsoft/phi-2)
