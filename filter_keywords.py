@@ -16,15 +16,16 @@ for file in glob.glob('{}*.pdf'.format(PATH)):
 
     except:
         pass
-
+    # create a initial keyword list from all the keywords in the publications. Keep only unique keywords. 
     keyword_list.extend(x for x in kw_meta if x not in keyword_list)
 
 print(keyword_list)
+# compare the new item to the five most similiar keywords
 result = process.extract(new_item, keyword_list, limit=5)
 print(result)
 
 input_added = False
-
+# check if the score is higher than 80. If yes append the new item to the list, otherwise discard it
 for k, s in result:
     if s > 80:
         if not input_added:
